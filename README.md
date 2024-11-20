@@ -1,26 +1,26 @@
 # Algorythms
 
-    - ALGORITMI ESAMINATI:
+    - ALGORITHMS EXAMINED:
         
-        RICORSIVI
+        RECURSIVE
         ○ Insertion Sort
         ○ Merge Sort (merge)
         ○ Selection Sort
         ○ Heap Sort (heapify, build heap)
-        ○ Quick Sort (partiziona, random quicksort)
-        ORDINAMENTO IN TEMPO LINEARE
+        ○ Quick Sort (partition, random quicksort)
+        LINEAR TIME SORTING
         ○ Counting Sort
         ○ Radix Sort
         ○ Bucket Sort
 
-    - CODE E LISTE
+    - QUEUES AND LISTS
 
-    - ALGORITMI DI SELEZIONE ORDINALE:
+    - ORDINAL SELECTION ALGORITHMS:
         ○ Min Max
         ○ Rand Select (randpartition)
 
-    - DIZIONARI E FUNZIONI HASH
-    
-    - ALBERI
+    - DICTIONARIES AND HASH FUNCTIONS
+        
+    -TREES
 
-    - GRAFI
+    -GRAPHS
