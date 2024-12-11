@@ -295,7 +295,14 @@ ________________________________________________________________________________
         - cancellazione in alberi RB: RB_Fix_cancella
 
         ALBERI B
-        -
+        - operazioni elementari: BTree
+        - operazioni elementari: Search
+        - operazioni elementari: Insert
+        - operazioni elementari: Delete
+
+        - procedure ausiliarie: SearchSubtree
+        - procedure ausiliarie: SplitChild
+        - procedure ausiliarie: InsertNonfull
 
     - GRAFI:
 _________________________________________________________________________________________________________________________
